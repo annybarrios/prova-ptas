@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nomeAluno": "Ana", "livro": "Clean Code", "devolvidoEm": "null" },
+    { "id": 2, "nomeAluno": "Bruno", "livro": "The Pragmatic Programmer", "devolvidoEm": "2024-05-10" },
+    { "id": 3, "nomeAluno": "Carla", "livro": "Design Patterns", "devolvidoEm": "null" }    
+]
